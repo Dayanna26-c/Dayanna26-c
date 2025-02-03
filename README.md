@@ -1,16 +1,13 @@
-## Hi there 👋
+💕Hola bienvenido💕
 
-<!--
-**Dayanna26-c/Dayanna26-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Dayanna26-c/Dayanna26-c** Es un repositorio en donde puedes disfrutar y divertirte con su contenido
+🌏🏞 Soy estudiante de bioingenieria⛺
+🚑 Me gusta mucho ayudar a las personas
+(●'◡'●) soy una persona muy responsable,amable y compañerista
+👀 me gusta leer en mis tiempos libres
+✨🏌️‍♀️Bailar es mi hobbie 
+😎 Mi compañero es Pacho
+😍 ME GUSTA MUCHO ESTUDIAR😍
+¡Espero puedas disfrutar y apoyarte de este contenido.💖🎉!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
